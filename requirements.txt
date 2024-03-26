@@ -1,0 +1,8 @@
+﻿transformers
+datasets
+evaluate
+rouge_score
+accelerate
+peft
+bitsandbytes
+trl
